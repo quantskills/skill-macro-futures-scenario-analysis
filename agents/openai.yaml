@@ -1,0 +1,7 @@
+interface:
+  display_name: "宏观事件—期货预期分析"
+  short_description: "用PandaData分析宏观事件预期差、传导链与期货三情景"
+  default_prompt: "Use $skill-macro-futures-scenario-analysis to analyze a macro event's conditional impact on specified futures with PandaData evidence, point-in-time controls, confirmation, and invalidation conditions."
+
+policy:
+  allow_implicit_invocation: true

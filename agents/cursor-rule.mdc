@@ -1,0 +1,11 @@
+---
+description: Analyze macro events and conditional futures scenarios with PandaData.
+globs:
+alwaysApply: false
+---
+
+# Macro Event Futures Analysis
+
+Read `../SKILL.md` before acting. Follow its PandaData-only source boundary, point-in-time event rules, futures contract resolution, explicit missing states, provenance, and scenario output contract.
+
+Use programs in `../scripts/` rather than reimplementing calculations. Never expose credentials, guess contract months, silently replace unsupported interfaces, promise returns, or generate automatic trading instructions. Treat every output as research material.
