@@ -186,3 +186,6 @@ python3.11 -m unittest discover -s tests -v
 ## 许可
 
 GPL-3.0-only。未声明 QuantSkills 官方认证。
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。
