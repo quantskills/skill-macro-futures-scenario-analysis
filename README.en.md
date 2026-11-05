@@ -37,3 +37,6 @@ Resolve the historical main contracts for AU, CU, and SC first; do not guess con
 The package contains a CLI, PandaData source wrapper, validators, event extraction, futures contract resolution, transmission templates, scenario generation, JSON/Markdown reporting, references, adapters, and tests. See `README.md` and `SKILL.md` for the full contract.
 
 Interfaces that are absent or unavailable are reported as `unsupported`; successful empty calls are `empty`. Report dates and publication dates are kept separate, and actual event values cannot be used before publication.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

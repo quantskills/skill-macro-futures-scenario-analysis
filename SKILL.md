@@ -279,3 +279,7 @@ low <= min(open, high, close)
 - **生猪/鸡蛋**：存栏/出栏 → 供应节奏 → 现货与养殖利润 → 期货；同时考虑季节性消费、交割品和基差。
 
 这些框架不能替代数据验证。没有对应字段时明确写“该传导环节未被当前数据确认”。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
